@@ -33,24 +33,31 @@ C# 윈도우 폼을 사용한 공부 도움 서비스
 
 ## 실행화면
 메인화면
+
 <img src="readme_img/메인 페이지.png">
 
 유저관리
+
 <img src="readme_img/유저관리.png">
 
 감지 프로세스 관리
+
 <img src="readme_img/감지 프로세스 관리.png">
 
 로그인 후
+
 <img src="readme_img/로그인 후.png">
 
 공부 프로그램 감지
+
 <img src="readme_img/공부 프로그램 감지.png">
 
 게임 프로세스 감지
+
 <img src="readme_img/게임 프로세스 감지.png">
 
 육성 시스템
+
 <img src="readme_img/육성 시스템.png">
 
 ## 기능구현
