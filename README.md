@@ -16,7 +16,7 @@ C# 윈도우 폼을 사용한 공부 도움 서비스
 2. 동기부여를 위한 캐릭터 육성 시스템
 
 ## 프로젝트 기간
-2019.06.14 ~ 2019.06.21
+2019.06.07 ~ 2019.06.14
 
 ## 참여인원
 개인 프로젝트
@@ -32,5 +32,26 @@ C# 윈도우 폼을 사용한 공부 도움 서비스
 <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 
 ## 실행화면
+메인화면
+<img src="readme_img/메인 페이지.png">
+
+유저관리
+<img src="readme_img/유저관리.png">
+
+감지 프로세스 관리
+<img src="readme_img/감지 프로세스 관리.png">
+
+로그인 후
+<img src="readme_img/로그인 후.png">
+
+공부 프로그램 감지
+<img src="readme_img/공부 프로그램 감지.png">
+
+게임 프로세스 감지
+<img src="readme_img/게임 프로세스 감지.png">
+
+육성 시스템
+<img src="readme_img/육성 시스템.png">
 
 ## 기능구현
+우선 모든 기능은 기본적으로 txt파일을 사용해 저장기능과 로드기능을 구현합니다.
