@@ -1,9 +1,9 @@
-# **스터디 프로그램**
+# **스터디 프로그램** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007%2FUnivAssignment-StudyProgram&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 C# 윈도우 폼을 사용한 공부 도움 서비스
 
 컴퓨터로 공부하면서 딴짓을 못하도록 하자는 아이디어를 구현했습니다.
 
-이 프로젝트는 대학교 1학년 과정중 C#을 처음 배운 직후 작성했던 프로젝트 입니다.
+이 프로젝트는 대학교 2학년 과정중 C#을 처음 배운 직후 작성했던 프로젝트 입니다.
 ## 프로젝트 개요
 ### 이름
 스터디 프로그램
@@ -16,17 +16,21 @@ C# 윈도우 폼을 사용한 공부 도움 서비스
 2. 동기부여를 위한 캐릭터 육성 시스템
 
 ## 프로젝트 기간
+2019.06.14 ~ 2019.06.21
 
 ## 참여인원
 개인 프로젝트
-| 이름 | 깃허브 | 담당 역할 및 기능 |
-| ---- | ---- | ---- |
-| 이효승 | [hoos007](https://github.com/hoos007) | 전체 설계 및 구현 |
+| 이름 | 깃허브 | 담당 역할 및 기능 | 비고 |
+| ---- | ---- | ---- | ---- |
+| 이효승 | [hoos007](https://github.com/hoos007) | 전체 설계 및 구현 | 신라대학교 컴퓨터소트웨어공학부 2학년 |
 
 ## 기술 스택 및 환경
+### 환경
+<img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+
+### 개발
+<img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 
 ## 실행화면
 
 ## 기능구현
-
-## 트러블슈팅
