@@ -34,31 +34,31 @@ C# 윈도우 폼을 사용한 공부 도움 서비스
 ## 실행화면
 메인화면
 
-<img src="readme_img/메인 페이지.png">
+![메인 페이지](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/bcb78095-838e-4c6b-b11e-98f7e9d50749)
 
 유저관리
 
-<img src="readme_img/유저관리.png">
+![유저관리](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/2398f649-36d1-4bc6-97b9-9794d061fc0d)
 
 감지 프로세스 관리
 
-<img src="readme_img/감지 프로세스 관리.png">
+![감지 프로세스 관리](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/c8f28fe8-8976-4347-8669-9a8efe0759a9)
 
 로그인 후
 
-<img src="readme_img/로그인 후.png">
+![로그인 후](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/3f987ec6-0f24-4efc-b5b2-d563be7c7ed8)
 
 공부 프로그램 감지
 
-<img src="readme_img/공부 프로그램 감지.png">
+![공부 프로그램 감지](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/ff2722aa-eeea-4ca1-865a-87f0e95250b2)
 
 게임 프로세스 감지
 
-<img src="readme_img/게임 프로세스 감지.png">
+![게임 프로세스 감지](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/82692e76-a988-4032-9379-a83cbffa82b4)
 
 육성 시스템
 
-<img src="readme_img/육성 시스템.png">
+![육성 시스템](https://github.com/hoos007/UnivAssignment-StudyProgram/assets/113767998/0511ddd5-3642-4ed9-b8eb-f945e8fdff69)
 
 ## 기능구현
 우선 모든 기능은 기본적으로 txt파일을 사용해 저장기능과 로드기능을 구현합니다.
